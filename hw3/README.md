@@ -12,12 +12,19 @@
 # Homework 3 answers
 
 git config
+
 git init
+
 git clone
+
 git add
+
 git commit
+
 git diff
+
 git reset
+
 git status
 
 <https://github.com/ji319/MDA610HW>
